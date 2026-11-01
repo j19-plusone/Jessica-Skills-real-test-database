@@ -1,9 +1,26 @@
-# Jessica Skills Real-Test Database · Jessica推广Skills实测档案库
+<p align="center"><img src="assets/banner.svg" alt="Jessica Skills Real-Test Database · Jessica推广Skills实测档案库" width="100%"></p>
 
-> 真机实测的开源推广工具点评：哪个真有效、值多少、能不能用。
-> Hands-on reviews of open-source promotion tools: what works, what's worth it, what to avoid.
+<h1 align="center">Jessica Skills Real-Test Database · Jessica推广Skills实测档案库</h1>
+<p align="center"><b>不看星数看实测：开源推广工具，哪个真有用。 / Stars lie, tests don't: which open-source growth tools actually work.</b></p>
+<p align="center">
+<a href="https://github.com/j19-plusone/Jessica-Skills-real-test-database/stargazers"><img src="https://img.shields.io/github/stars/j19-plusone/Jessica-Skills-real-test-database?style=flat-square" alt="stars"></a>
+<a href="LICENSE"><img src="https://img.shields.io/github/license/j19-plusone/Jessica-Skills-real-test-database?style=flat-square" alt="license"></a>
+<a href="https://github.com/j19-plusone/Jessica-Skills-real-test-database/commits/main"><img src="https://img.shields.io/github/last-commit/j19-plusone/Jessica-Skills-real-test-database?style=flat-square" alt="last commit"></a>
+</p>
+<p align="center"><a href="#中文">中文</a> · <a href="#english">English</a></p>
 
-![stars](https://img.shields.io/github/stars/j19-plusone/Jessica-Skills-real-test-database?style=flat-square) ![license](https://img.shields.io/badge/license-MIT-green?style=flat-square) ![reviewed](https://img.shields.io/badge/tools_reviewed-19-blue?style=flat-square) ![updated](https://img.shields.io/badge/updated-2026--11--01-orange?style=flat-square)
+- **19 个工具实测点评 / 19 tools reviewed** with a clear test level (tested / partial / structure / README-only)
+- **四维评分 / 4-axis scores**: effectiveness, value, ease, cost — plus Keep / Drop / Ban recommendations
+- **风险标注 / Risk flags**: tools banned for legal or ToS risk are listed, not hidden
+
+## Quick start / 一条命令开始
+```bash
+git clone https://github.com/j19-plusone/Jessica-Skills-real-test-database && open Jessica-Skills-real-test-database/README.md
+```
+
+> ⭐ **Why star this / 为什么点星**：选营销工具前先看实测，省一周试错。Star it before you pick your next growth tool.
+
+**Related / 相关**: [Jessica-robot-army](https://github.com/j19-plusone/Jessica-robot-army) — 姊妹库：多 Bot 团队运营方法 / Sister repo: multi-bot team playbook
 
 ## 排名 / Ranking
 | # | Tool | ⭐ | 效果 Eff | 价值 Value | 易用 Ease | 成本 Cost | 总分 Overall | 测试 Test | 选择 Choice* |
@@ -38,6 +55,18 @@
 
 ## 环境 / Environment
 Linux 沙盒，无 Docker、无数据库、无 GPU、不使用任何密钥 / Linux sandbox, no Docker, DB, GPU or secrets.
+
+
+## Contributing / 参与贡献
+欢迎 PR！见 [CONTRIBUTING.md](CONTRIBUTING.md)。Good first issues:
+- 按模板提交一个新工具实测 / Submit a new tool review using reviews/ format
+- 在有 Docker 的环境补测『仅评审』工具 / Re-test README-only tools with Docker
+- 修正星数或许可证信息 / Fix star or license data
+
+Roadmap: [ROADMAP.md](ROADMAP.md)
+
+## Star History
+[![Star History Chart](https://api.star-history.com/svg?repos=j19-plusone/Jessica-Skills-real-test-database&type=Date)](https://star-history.com/#j19-plusone/Jessica-Skills-real-test-database&Date)
 
 ## License
 MIT
