@@ -22,6 +22,12 @@ git clone https://github.com/j19-plusone/Jessica-Skills-real-test-database && op
 
 **Related / 相关**: [Jessica-robot-army](https://github.com/j19-plusone/Jessica-robot-army) — 姊妹库：多 Bot 团队运营方法 / Sister repo: multi-bot team playbook
 
+## 中文
+**这是什么**：对 19 个开源推广/增长工具和 Agent 技能的真机实测点评。每个工具都如实标注测试级别（实测 / 部分实测 / 结构检查 / 仅评审），按效果、价值、易用、成本四项 1–10 打分，并给出保留 / 删除 / 禁用建议（待 Jessica 确认）。有法律或服务条款风险的工具列为禁用，不打分。下方是排名表，详情见 `reviews/`。
+
+## English
+**What this is**: hands-on reviews of 19 open-source growth tools and agent skills. Each entry states its real test level (tested / partial / structure-checked / README-only), scores effectiveness, value, ease and cost from 1–10, and gives a Keep / Drop / Ban recommendation (pending Jessica's confirmation). Tools with legal or ToS risk are listed as banned and not scored. The ranking is below; details live in `reviews/`.
+
 ## 排名 / Ranking
 | # | Tool | ⭐ | 效果 Eff | 价值 Value | 易用 Ease | 成本 Cost | 总分 Overall | 测试 Test | 选择 Choice* |
 |---|---|---|---|---|---|---|---|---|---|
