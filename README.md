@@ -1,9 +1,9 @@
-# Jessica推广Skills档案库 · Jessica's Promo Skills Archive
+# Jessica Skills Real-Test Database · Jessica推广Skills实测档案库
 
 > 真机实测的开源推广工具点评：哪个真有效、值多少、能不能用。
 > Hands-on reviews of open-source promotion tools: what works, what's worth it, what to avoid.
 
-![stars](https://img.shields.io/github/stars/j19-plusone/Jessica-promo-skills?style=flat-square) ![license](https://img.shields.io/badge/license-MIT-green?style=flat-square) ![reviewed](https://img.shields.io/badge/tools_reviewed-19-blue?style=flat-square) ![updated](https://img.shields.io/badge/updated-2026--11--01-orange?style=flat-square)
+![stars](https://img.shields.io/github/stars/j19-plusone/Jessica-Skills-real-test-database?style=flat-square) ![license](https://img.shields.io/badge/license-MIT-green?style=flat-square) ![reviewed](https://img.shields.io/badge/tools_reviewed-19-blue?style=flat-square) ![updated](https://img.shields.io/badge/updated-2026--11--01-orange?style=flat-square)
 
 ## 排名 / Ranking
 | # | Tool | ⭐ | 效果 Eff | 价值 Value | 易用 Ease | 成本 Cost | 总分 Overall | 测试 Test | 选择 Choice* |
