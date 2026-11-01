@@ -23,35 +23,35 @@ git clone https://github.com/j19-plusone/Jessica-Skills-real-test-database && op
 **Related / 相关**: [Jessica-robot-army](https://github.com/j19-plusone/Jessica-robot-army) — 姊妹库：多 Bot 团队运营方法 / Sister repo: multi-bot team playbook
 
 ## 中文
-**这是什么**：对 19 个开源推广/增长工具和 Agent 技能的真机实测点评。每个工具都如实标注测试级别（实测 / 部分实测 / 结构检查 / 仅评审），按效果、价值、易用、成本四项 1–10 打分，并给出保留 / 删除 / 禁用建议（待 Jessica 确认）。有法律或服务条款风险的工具列为禁用，不打分。下方是排名表，详情见 `reviews/`。
+**这是什么**：对 19 个开源推广/增长工具和 Agent 技能的真机实测点评。每个工具都如实标注测试级别（实测 / 部分实测 / 结构检查 / 仅评审），按效果、价值、易用、成本四项 1–10 打分，并给出保留 / 删除 / 禁用建议（Jessica 已确认 2026-11-01）。有法律或服务条款风险的工具列为禁用，不打分。下方是排名表，详情见 `reviews/`。
 
 ## English
-**What this is**: hands-on reviews of 19 open-source growth tools and agent skills. Each entry states its real test level (tested / partial / structure-checked / README-only), scores effectiveness, value, ease and cost from 1–10, and gives a Keep / Drop / Ban recommendation (pending Jessica's confirmation). Tools with legal or ToS risk are listed as banned and not scored. The ranking is below; details live in `reviews/`.
+**What this is**: hands-on reviews of 19 open-source growth tools and agent skills. Each entry states its real test level (tested / partial / structure-checked / README-only), scores effectiveness, value, ease and cost from 1–10, and gives a Keep / Drop / Ban recommendation (confirmed by Jessica on 2026-11-01). Tools with legal or ToS risk are listed as banned and not scored. The ranking is below; details live in `reviews/`.
 
 ## 排名 / Ranking
 | # | Tool | ⭐ | 效果 Eff | 价值 Value | 易用 Ease | 成本 Cost | 总分 Overall | 测试 Test | 选择 Choice* |
 |---|---|---|---|---|---|---|---|---|---|
-| 1 | [ui-ux-pro-max-skill](reviews/ui-ux-pro-max-skill.md) | 143.5k | 9 | 9 | 9 | 10 | **9.2** | 实测 | 保留（建议，待 Jessica 确认） |
-| 2 | [Umami](reviews/Umami.md) | 39.8k | 8 | 9 | 8 | 9 | **8.5** | 仅评审 | 保留（建议，待 Jessica 确认） |
-| 3 | [superpowers](reviews/superpowers.md) | 310.2k | 8 | 8 | 8 | 10 | **8.5** | 实测(结构) | 保留（建议，待 Jessica 确认） |
-| 4 | [listmonk](reviews/listmonk.md) | 24.1k | 8 | 8 | 8 | 9 | **8.2** | 部分实测 | 保留（建议，待 Jessica 确认） |
-| 5 | [PostHog](reviews/PostHog.md) | 40.6k | 9 | 9 | 6 | 7 | **7.8** | 仅评审 | 保留（建议，待 Jessica 确认） |
-| 6 | [caveman](reviews/caveman.md) | 116.6k | 7 | 7 | 7 | 9 | **7.5** | 实测(结构) | 保留（建议，待 Jessica 确认） |
-| 7 | [Ghost](reviews/Ghost.md) | 55.6k | 8 | 8 | 6 | 7 | **7.2** | 仅评审 | 保留（建议，待 Jessica 确认） |
-| 8 | [Postiz](reviews/Postiz.md) | 40.4k | 8 | 8 | 5 | 7 | **7.0** | 仅评审 | 保留（建议，待 Jessica 确认） |
-| 9 | [Plausible](reviews/Plausible.md) | 29.7k | 8 | 7 | 6 | 7 | **7.0** | 仅评审 | 删除（建议，待 Jessica 确认） |
-| 10 | [SerpBear](reviews/SerpBear.md) | 2.2k | 6 | 7 | 7 | 8 | **7.0** | 实测 | 保留（建议，待 Jessica 确认） |
-| 11 | [context-mode](reviews/context-mode.md) | 33.1k | 7 | 6 | 7 | 8 | **7.0** | 实测(结构) | 保留（建议，待 Jessica 确认） |
-| 12 | [GrowthBook](reviews/GrowthBook.md) | 8.6k | 7 | 6 | 6 | 7 | **6.5** | 仅评审 | 删除（建议，待 Jessica 确认） |
-| 13 | [OpenMontage](reviews/OpenMontage.md) | 74.1k | 8 | 8 | 4 | 5 | **6.2** | 仅评审 | 保留（建议，待 Jessica 确认） |
-| 14 | [Matomo](reviews/Matomo.md) | 22.0k | 7 | 6 | 4 | 7 | **6.0** | 仅评审 | 删除（建议，待 Jessica 确认） |
-| 15 | [claude-mem](reviews/claude-mem.md) | 108.2k | 6 | 5 | 5 | 8 | **6.0** | 实测(结构) | 删除（建议，待 Jessica 确认） |
-| 16 | [Mautic](reviews/Mautic.md) | 10.9k | 7 | 6 | 3 | 6 | **5.5** | 仅评审 | 删除（建议，待 Jessica 确认） |
-| — | [rea](reviews/rea.md) | 416.4k | — | — | — | — | **—** | 未运行 | 禁用（建议，待 Jessica 确认） |
-| — | [pentagi](reviews/pentagi.md) | 32.9k | — | — | — | — | **—** | 未运行 | 禁用（建议，待 Jessica 确认） |
-| — | [free-claude-code](reviews/free-claude-code.md) | 65.5k | — | — | — | — | **—** | 未运行 | 禁用（建议，待 Jessica 确认） |
+| 1 | [ui-ux-pro-max-skill](reviews/ui-ux-pro-max-skill.md) | 143.5k | 9 | 9 | 9 | 10 | **9.2** | 实测 | 保留（Jessica 已确认 2026-11-01） |
+| 2 | [Umami](reviews/Umami.md) | 39.8k | 8 | 9 | 8 | 9 | **8.5** | 仅评审 | 保留（Jessica 已确认 2026-11-01） |
+| 3 | [superpowers](reviews/superpowers.md) | 310.2k | 8 | 8 | 8 | 10 | **8.5** | 实测(结构) | 保留（Jessica 已确认 2026-11-01） |
+| 4 | [listmonk](reviews/listmonk.md) | 24.1k | 8 | 8 | 8 | 9 | **8.2** | 部分实测 | 保留（Jessica 已确认 2026-11-01） |
+| 5 | [PostHog](reviews/PostHog.md) | 40.6k | 9 | 9 | 6 | 7 | **7.8** | 仅评审 | 保留（Jessica 已确认 2026-11-01） |
+| 6 | [caveman](reviews/caveman.md) | 116.6k | 7 | 7 | 7 | 9 | **7.5** | 实测(结构) | 保留（Jessica 已确认 2026-11-01） |
+| 7 | [Ghost](reviews/Ghost.md) | 55.6k | 8 | 8 | 6 | 7 | **7.2** | 仅评审 | 保留（Jessica 已确认 2026-11-01） |
+| 8 | [Postiz](reviews/Postiz.md) | 40.4k | 8 | 8 | 5 | 7 | **7.0** | 仅评审 | 保留（Jessica 已确认 2026-11-01） |
+| 9 | [Plausible](reviews/Plausible.md) | 29.7k | 8 | 7 | 6 | 7 | **7.0** | 仅评审 | 删除（Jessica 已确认 2026-11-01） |
+| 10 | [SerpBear](reviews/SerpBear.md) | 2.2k | 6 | 7 | 7 | 8 | **7.0** | 实测 | 保留（Jessica 已确认 2026-11-01） |
+| 11 | [context-mode](reviews/context-mode.md) | 33.1k | 7 | 6 | 7 | 8 | **7.0** | 实测(结构) | 保留（Jessica 已确认 2026-11-01） |
+| 12 | [GrowthBook](reviews/GrowthBook.md) | 8.6k | 7 | 6 | 6 | 7 | **6.5** | 仅评审 | 删除（Jessica 已确认 2026-11-01） |
+| 13 | [OpenMontage](reviews/OpenMontage.md) | 74.1k | 8 | 8 | 4 | 5 | **6.2** | 仅评审 | 保留（Jessica 已确认 2026-11-01） |
+| 14 | [Matomo](reviews/Matomo.md) | 22.0k | 7 | 6 | 4 | 7 | **6.0** | 仅评审 | 删除（Jessica 已确认 2026-11-01） |
+| 15 | [claude-mem](reviews/claude-mem.md) | 108.2k | 6 | 5 | 5 | 8 | **6.0** | 实测(结构) | 删除（Jessica 已确认 2026-11-01） |
+| 16 | [Mautic](reviews/Mautic.md) | 10.9k | 7 | 6 | 3 | 6 | **5.5** | 仅评审 | 删除（Jessica 已确认 2026-11-01） |
+| — | [rea](reviews/rea.md) | 416.4k | — | — | — | — | **—** | 未运行 | 禁用（Jessica 已确认 2026-11-01） |
+| — | [pentagi](reviews/pentagi.md) | 32.9k | — | — | — | — | **—** | 未运行 | 禁用（Jessica 已确认 2026-11-01） |
+| — | [free-claude-code](reviews/free-claude-code.md) | 65.5k | — | — | — | — | **—** | 未运行 | 禁用（Jessica 已确认 2026-11-01） |
 
-\* 选择为建议，待 Jessica 确认 / Choices are recommendations pending Jessica's confirmation. 保留=Keep, 删除=Drop, 禁用=Banned.
+* 选择均已由 Jessica 于 2026-11-01 确认 / All choices confirmed by Jessica on 2026-11-01. 保留=Keep, 删除=Drop, 禁用=Banned.
 
 ## 评分方法 / Scoring
 - 效果 Effectiveness、价值 Value、易用 Ease、成本 Cost（越便宜分越高 / higher = cheaper），各 1–10；总分 = 四项平均。

@@ -6,3 +6,6 @@
 
 ## 20261101 (stars)
 - README hero、SVG banner、徽章、star-history、快速开始、贡献指南、行为准则、Issue 模板、Roadmap、姊妹库互链。
+
+## 20261101 (confirmed)
+- 所有保留/删除/禁用标签改为「Jessica 已确认 2026-11-01」。

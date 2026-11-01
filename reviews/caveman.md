@@ -4,4 +4,4 @@
 - 测试级别 / Test level: **实测(结构)**
 - 过程与结果 / Process & result: 28 个 SKILL.md 合规；发现本地 API 代理与遥测代码，未安装
 - 评分 / Scores: 效果 7 · 价值 7 · 易用 7 · 成本 9 → **总分 7.5**
-- Jessica 的选择（建议，待确认）/ Recommended choice (pending Jessica): **保留（建议，待 Jessica 确认）** — 仅用纯技能文件，禁装代理/CLI
+- Jessica 的选择 / Jessica's choice: **保留（Jessica 已确认 2026-11-01）** — 仅用纯技能文件，禁装代理/CLI
