@@ -1,12 +1,12 @@
 # listmonk
 - Repo: https://github.com/knadh/listmonk · ⭐ 24.1k（2026-11-01）· License: AGPL-3.0
 - 功能 / What: 自建群发邮件/Newsletter
-- 状态 / Status: **测试中 · Day 0 (2026-11-01) / Testing · Day 0**
+- 状态 / Status: **测试中 · Day 7 (2026-11-08) / Testing · Day 7**
 
 ## 测试检查点 / Test checkpoints（仅客观数据 / objective data only）
 | Day | 日期 Date | 部署状态 Deploy | 关键指标 Metrics | 成本 Cost | 故障 Incidents |
 |---|---|---|---|---|---|
-| D7 | | | | | |
+| D7 | 2026-11-08 | 未完成安装 / install not completed（PostgreSQL :5432 无响应；D0 的 v5.1.0 二进制本检查点未找到） | 邮件发送数：0 / emails sent: 0 | $0 | 无 / none |
 | D14 | | | | | |
 | D21 | | | | | |
 | D28 | | | | | |

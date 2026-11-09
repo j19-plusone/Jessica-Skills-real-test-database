@@ -1,12 +1,12 @@
 # context-mode
 - Repo: https://github.com/mksglu/context-mode · ⭐ 33.1k（2026-11-01）· License: NOASSERTION
 - 功能 / What: 工具输出沙箱化省上下文
-- 状态 / Status: **测试中 · Day 0 (2026-11-01) / Testing · Day 0**
+- 状态 / Status: **测试中 · Day 7 (2026-11-08) / Testing · Day 7**
 
 ## 测试检查点 / Test checkpoints（仅客观数据 / objective data only）
 | Day | 日期 Date | 部署状态 Deploy | 关键指标 Metrics | 成本 Cost | 故障 Incidents |
 |---|---|---|---|---|---|
-| D7 | | | | | |
+| D7 | 2026-11-08 | 未运行 / not run（本地克隆仍在；当前找到 11 个 SKILL.md） | 工具调用次数：0 / tool invocations: 0 | $0 | 无 / none |
 | D14 | | | | | |
 | D21 | | | | | |
 | D28 | | | | | |

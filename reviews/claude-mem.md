@@ -1,12 +1,12 @@
 # claude-mem
 - Repo: https://github.com/thedotmack/claude-mem · ⭐ 108.2k（2026-11-01）· License: Apache-2.0
 - 功能 / What: 跨会话记忆
-- 状态 / Status: **测试中 · Day 0 (2026-11-01) / Testing · Day 0**
+- 状态 / Status: **测试中 · Day 7 (2026-11-08) / Testing · Day 7**
 
 ## 测试检查点 / Test checkpoints（仅客观数据 / objective data only）
 | Day | 日期 Date | 部署状态 Deploy | 关键指标 Metrics | 成本 Cost | 故障 Incidents |
 |---|---|---|---|---|---|
-| D7 | | | | | |
+| D7 | 2026-11-08 | 未安装 / not installed（本地克隆仍在；当前找到 43 个 SKILL.md） | 记忆写入次数：0 / memory writes: 0 | $0 | 无 / none |
 | D14 | | | | | |
 | D21 | | | | | |
 | D28 | | | | | |

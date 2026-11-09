@@ -1,12 +1,12 @@
 # superpowers
 - Repo: https://github.com/obra/superpowers · ⭐ 310.2k（2026-11-01）· License: MIT
 - 功能 / What: Agent 技能框架与方法论
-- 状态 / Status: **测试中 · Day 0 (2026-11-01) / Testing · Day 0**
+- 状态 / Status: **测试中 · Day 7 (2026-11-08) / Testing · Day 7**
 
 ## 测试检查点 / Test checkpoints（仅客观数据 / objective data only）
 | Day | 日期 Date | 部署状态 Deploy | 关键指标 Metrics | 成本 Cost | 故障 Incidents |
 |---|---|---|---|---|---|
-| D7 | | | | | |
+| D7 | 2026-11-08 | 未接入 Agent / not wired to an agent（本地克隆仍在；15 个 SKILL.md） | 技能调用次数：0 / skill invocations: 0 | $0 | 无 / none |
 | D14 | | | | | |
 | D21 | | | | | |
 | D28 | | | | | |

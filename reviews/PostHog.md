@@ -1,12 +1,12 @@
 # PostHog
 - Repo: https://github.com/PostHog/posthog · ⭐ 40.6k（2026-11-01）· License: 混合(MIT+EE)
 - 功能 / What: 产品分析、漏斗、A/B、录屏
-- 状态 / Status: **测试中 · Day 0 (2026-11-01) / Testing · Day 0**
+- 状态 / Status: **测试中 · Day 7 (2026-11-08) / Testing · Day 7**
 
 ## 测试检查点 / Test checkpoints（仅客观数据 / objective data only）
 | Day | 日期 Date | 部署状态 Deploy | 关键指标 Metrics | 成本 Cost | 故障 Incidents |
 |---|---|---|---|---|---|
-| D7 | | | | | |
+| D7 | 2026-11-08 | 未部署 / not deployed（自建需 Docker 多服务；本机无 Docker） | 已检查的公开站点首页无 posthog-js；events：0 | $0 | 无 / none |
 | D14 | | | | | |
 | D21 | | | | | |
 | D28 | | | | | |

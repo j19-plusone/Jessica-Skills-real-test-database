@@ -1,12 +1,12 @@
 # Postiz
 - Repo: https://github.com/gitroomhq/postiz-app · ⭐ 40.4k（2026-11-01）· License: AGPL-3.0
 - 功能 / What: 社媒排程 28+ 平台
-- 状态 / Status: **测试中 · Day 0 (2026-11-01) / Testing · Day 0**
+- 状态 / Status: **测试中 · Day 7 (2026-11-08) / Testing · Day 7**
 
 ## 测试检查点 / Test checkpoints（仅客观数据 / objective data only）
 | Day | 日期 Date | 部署状态 Deploy | 关键指标 Metrics | 成本 Cost | 故障 Incidents |
 |---|---|---|---|---|---|
-| D7 | | | | | |
+| D7 | 2026-11-08 | 自建未启动 / self-hosted not running（需 Docker+PostgreSQL+Redis；无 Docker，PostgreSQL :5432 无响应）。已安装的 Postiz 连接器未授权（needsAuth，可用工具 0） | 排程发送数：0 / scheduled posts: 0 | $0 | 无运行故障 / no runtime incidents |
 | D14 | | | | | |
 | D21 | | | | | |
 | D28 | | | | | |
